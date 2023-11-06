@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "cypress": "^13.4.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
